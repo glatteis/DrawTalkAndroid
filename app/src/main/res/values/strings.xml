@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">DrawTalk</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="repeat_password">Repeat Password</string>
+
+    <string name="login_error_wrong_creds">Wrong credentials.</string>
+    <string name="login_error_unknown">Could not log you in.</string>
+    <string name="login_error_field_blank">Fields cannot be blank.</string>
+    <string name="register_error_wrong_repeated_password">Password and repeated password do not match.</string>
+    <string name="register_error_username_exists">That username already exists.</string>
+    <string name="register_error_username_too_long">That username is too long.</string>
+    <string name="title_activity_chat_window">Chats</string>
+    <string name="action_settings">Settings</string>
+    <string name="participating">participating</string>
+
+    <string name="new_chat">New Chat</string>
+    <string name="chat_name">Chat Name</string>
+    <string name="chat_password">Password (optional)</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="locked">locked</string>
+    <string name="add">add</string>
+    <string name="settings">settings</string>
+    <string name="send">send</string>
+
+
+</resources>
